@@ -1,0 +1,3 @@
+Python is easy to learn.
+I am practising file handling.
+This is my Day 8 task.
